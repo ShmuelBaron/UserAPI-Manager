@@ -26,7 +26,6 @@ def create_table():
 create_table()
 
 # Temporary list to store users
-users = []
 
 # Function for the base route
 @app.route('/')
